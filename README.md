@@ -1,2 +1,2 @@
-# Whatsapp_sende
+# Whatsapp_sender
 Whatsapp Sender with PhantomJS
