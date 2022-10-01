@@ -2,6 +2,11 @@
 
 System Config : Ubuntu 20.14 LTS
 
+
+# Add user
+sudo adduser vaqas
+sudo adduser vaqas sudo
+
 export PATH="/home/vaqas/.local/bin:$PATH"
 mkdir wa_sender
 cd wa_sender
