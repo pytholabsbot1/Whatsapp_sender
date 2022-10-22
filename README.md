@@ -7,6 +7,11 @@ System Config : Ubuntu 20.14 LTS
 sudo adduser vaqas
 sudo adduser vaqas sudo
 
+sudo ufw enable
+sudo ufw allow OpenSSH
+sudo ufw allow 9000
+
+
 export PATH="/home/vaqas/.local/bin:$PATH"
 mkdir wa_sender
 cd wa_sender
