@@ -16,7 +16,7 @@ sudo apt-get update && sudo apt-get upgrade
 
 sudo apt-get install python3-pip chromium tmux htop -y
 
-pip3 install selenium jupyter notebook
+pip3 install selenium flask jupyter notebook
 
 
 # Get Chrome
